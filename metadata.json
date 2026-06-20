@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack",
+  "description": "EcoTrack is a Carbon Footprint Awareness Platform that helps users calculate, track, and reduce their personal carbon footprint with dated logs, progress analytics, and AI-powered personalized sustainability tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
